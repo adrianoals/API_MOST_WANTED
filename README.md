@@ -37,3 +37,8 @@ Nesta etapa, desenvolvi uma API em Python utilizando o framework Flask, que forn
 Este projeto demonstra a integração de várias tecnologias para criar uma API útil que disponibiliza informações relevantes sobre os "Mais Procurados" da FBI e Interpol.
 
 E os desafios enfrentados incluíram: gerenciamento de conexões com o banco de dados, tratamento de erros e problemas de conexão com as APIs externas, assegurar a estrutura adequada das tabelas Oracle e a implementação de um controle de paginação eficaz.
+
+## Vídeo Coleta de dados C#
+https://github.com/adrianoals/API_MOST_WANTED/assets/102778237/bd7914e1-2dda-4013-a298-4243408ee32a
+
+
