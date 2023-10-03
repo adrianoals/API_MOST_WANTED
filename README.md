@@ -41,4 +41,8 @@ E os desafios enfrentados incluíram: gerenciamento de conexões com o banco de 
 ## Vídeo Coleta de dados C#
 https://github.com/adrianoals/API_MOST_WANTED/assets/102778237/bd7914e1-2dda-4013-a298-4243408ee32a
 
+## Vídeo da API Flask
+https://github.com/adrianoals/API_MOST_WANTED/assets/102778237/9d0dbac6-542f-479e-a445-82f33ae349a0
+
+
 
