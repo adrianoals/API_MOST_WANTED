@@ -1,0 +1,13 @@
+Links APIs FBI e Interpol
+
+FBI
+https://api.fbi.gov/wanted/v1/list
+https://api.fbi.gov/docs
+https://www.fbi.gov/wanted/api
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi
+
+
+
+Interpol
+View Red Notices (interpol.int)	
+https://ws-public.interpol.int/notices/v1/red?resultPerPage=20&page=3
