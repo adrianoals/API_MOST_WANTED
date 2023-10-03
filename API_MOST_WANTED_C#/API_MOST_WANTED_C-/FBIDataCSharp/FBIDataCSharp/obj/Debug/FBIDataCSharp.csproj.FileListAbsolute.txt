@@ -1,0 +1,62 @@
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\FBIDataCSharp.exe.config
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\FBIDataCSharp.exe
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\FBIDataCSharp.pdb
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\RestSharp.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Buffers.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Memory.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Json.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\RestSharp.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Buffers.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Memory.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Json.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.ValueTuple.xml
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.csproj.CopyComplete
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.exe
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.pdb
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gusta\source\repos\FBIDataCSharp\FBIDataCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\FBIDataCSharp.exe.config
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\FBIDataCSharp.exe
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\FBIDataCSharp.pdb
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\RestSharp.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Buffers.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Memory.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Json.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\RestSharp.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Buffers.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Memory.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Text.Json.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\bin\Debug\System.ValueTuple.xml
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.csproj.AssemblyReference.cache
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.csproj.CoreCompileInputs.cache
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.csproj.CopyComplete
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.exe
+C:\Users\drili\OneDrive\Área de Trabalho\API_MOST_WANTED_C-\FBIDataCSharp\FBIDataCSharp\FBIDataCSharp\obj\Debug\FBIDataCSharp.pdb
